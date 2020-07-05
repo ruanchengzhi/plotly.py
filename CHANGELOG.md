@@ -8,6 +8,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 - `px.NO_COLOR` constant to override wide-form color assignment in Plotly Express ([#2614](https://github.com/plotly/plotly.py/pull/2614))
 - `facet_row_spacing` and `facet_col_spacing` added to Plotly Express cartesian 2d functions ([#2614](https://github.com/plotly/plotly.py/pull/2614))
+- `base` added to Plotly Express `bar` and `bar_polar` functions ([#2614](https://github.com/plotly/plotly.py/pull/2614))
 
 ### Fixed
 

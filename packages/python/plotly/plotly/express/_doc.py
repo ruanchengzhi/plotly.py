@@ -97,6 +97,11 @@ docs = dict(
         colref_desc,
         "Values from this column or array_like are to be interpreted according to `locationmode` and mapped to longitude/latitude.",
     ],
+    base=[
+        colref_type,
+        colref_desc,
+        "Values from this column or array_like are used to position the base of the bar.",
+    ],
     dimensions=[
         colref_list_type,
         colref_list_desc,

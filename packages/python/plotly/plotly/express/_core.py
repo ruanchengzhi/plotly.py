@@ -19,7 +19,7 @@ NO_COLOR = "px_no_color_constant"
 
 # Declare all supported attributes, across all plot types
 direct_attrables = (
-    ["x", "y", "z", "a", "b", "c", "r", "theta", "size"]
+    ["x", "y", "z", "a", "b", "c", "r", "theta", "size", "base"]
     + ["hover_name", "text", "names", "values", "parents", "wide_cross"]
     + ["ids", "error_x", "error_x_minus", "error_y", "error_y_minus", "error_z"]
     + ["error_z_minus", "lat", "lon", "locations", "animation_group"]
